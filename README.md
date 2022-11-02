@@ -1,1 +1,2 @@
 # odin-recipes
+So basically this is a project given by the Odin Project I love if anyone somehow is reading this, the odin project is amazing and you guys should really check it out if you want to learn front end developement using and much more!
